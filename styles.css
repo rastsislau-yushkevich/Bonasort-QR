@@ -104,3 +104,8 @@ main .socials-list li {
 	text-decoration: none;
 	color: #000;
 }
+
+.requisites {
+	text-align: center;
+	margin-bottom: 10px;
+}
